@@ -18,4 +18,4 @@
 
 <!--|9V Battery| 10| 15.0 | [link](http://www.amazon.com/Duracell-Procell-Volt-Batteries-Pack/dp/B002UGVWA4/ref=sr_1_1?ie=UTF8&qid=1387393252&sr=8-1&keywords=9v)|-->
 
-|Solderless Breadboard| 20| 7.30 | [link](http://www.aliexpress.com/item/50pcs-Mini-Solderless-Prototype-Breadboard-170-Tie-points-for-Shield-free-shipping/1554785163.html)|
+<!-- |Solderless Breadboard| 20| 7.30 | [link](http://www.aliexpress.com/item/50pcs-Mini-Solderless-Prototype-Breadboard-170-Tie-points-for-Shield-free-shipping/1554785163.html)| -->
