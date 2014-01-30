@@ -1,6 +1,6 @@
 |Material|Number| Per Robot Cost |  Total Cost| link to supplier|
 | --- | --- | --- | --- |--- | 
-|Continuous Rotation Servo Motor| 20 | 9.92| 99.2 | [link](http://www.aliexpress.com/item/Freeship-5x-360-degree-Continuous-Rotation-Servos-DC-Gear-Motor-Smart-Car-Robot-4kg-cm-DC/725050285.html)
+|Continuous Rotation Servo Motor| 20 | 9.92| 99.2 | [link](http://www.aliexpress.com/item/Freeship-5x-360-degree-Continuous-Rotation-Servos-DC-Gear-Motor-Smart-Car-Robot-4kg-cm-DC/725050285.html)|
 |Funduino + Cord| 10| 11.20 | 112.0 | [link](http://www.aliexpress.com/item/Freeshipping-UNO-R3-MEGA328P-ATMEGA16U2-for-Arduino-Compatible/1078446283.html)|
 |Battery Adapter| 10| 0.5| 5.00 | [link](http://www.aliexpress.com/item/Fast-shipping-UNO-R3-9V-Battery-Connector-9V-battery-clip-for-arduino-10pcs-lot-in-stock/1097802048.html)|
 |Solderless Breadboard| 10| 0.73| 7.30 | [link](http://www.aliexpress.com/item/50pcs-Mini-Solderless-Prototype-Breadboard-170-Tie-points-for-Shield-free-shipping/1554785163.html)|
