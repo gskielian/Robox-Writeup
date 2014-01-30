@@ -4,6 +4,7 @@
 |Funduino + Cord| 10|  112.0 | [link](http://www.aliexpress.com/item/Freeshipping-UNO-R3-MEGA328P-ATMEGA16U2-for-Arduino-Compatible/1078446283.html)|
 | Solderless Breadboard | 10 | 19.00 | [link](http://www.aliexpress.com/item/400-tie-point-white-Solderless-Breadboard-half-size-breadboard-experiment-breadboard/1637007052.html)
 |Battery Adapter| 10| 5.00 | [link](http://www.aliexpress.com/item/Fast-shipping-UNO-R3-9V-Battery-Connector-9V-battery-clip-for-arduino-10pcs-lot-in-stock/1097802048.html)|
+|Battery Cases | 10 | 23.1 | [link](http://www.aliexpress.com/item/Free-shipping-Promotion-New-arrival-Free-shipping-Battery-Holder-for-6-AA-Battery-Case/814401026.html)
 |Compass| 10 | 17.7 | [link](http://www.aliexpress.com/item/GY-273-HMC5883L-module-electronic-compass-electronic-compass-axis-magnetic-sensor-module/1121456959.html)|
 |Tracker| 10| 25.7 |[link](http://www.aliexpress.com/item/Free-Shipping-10PCS-LOT-GY-521-MPU-6050-Module-mpu6050-module-3-Axis-analog-gyro-sensors/698205968.html)|
 |Total Cost| | 266.9 |
