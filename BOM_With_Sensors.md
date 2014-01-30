@@ -1,4 +1,5 @@
 | Material | Number| Per Robot Cost |  Total Cost| link to supplier|
+
 | :---: | :---: | :---: | :---: |:---: | 
 
 |Continuous Rotation Servo Motor| 20 | 9.92| 99.2 | [link](http://www.aliexpress.com/item/Freeship-5x-360-degree-Continuous-Rotation-Servos-DC-Gear-Motor-Smart-Car-Robot-4kg-cm-DC/725050285.html)|
