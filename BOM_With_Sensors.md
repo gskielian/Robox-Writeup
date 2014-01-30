@@ -7,7 +7,7 @@
 |Battery Cases | 10 | 23.1 | [link](http://www.aliexpress.com/item/Free-shipping-Promotion-New-arrival-Free-shipping-Battery-Holder-for-6-AA-Battery-Case/814401026.html)
 |Compass| 10 | 17.7 | [link](http://www.aliexpress.com/item/GY-273-HMC5883L-module-electronic-compass-electronic-compass-axis-magnetic-sensor-module/1121456959.html)|
 |Tracker| 10| 25.7 |[link](http://www.aliexpress.com/item/Free-Shipping-10PCS-LOT-GY-521-MPU-6050-Module-mpu6050-module-3-Axis-analog-gyro-sensors/698205968.html)|
-|Total Cost| | 266.9 |
+|Total Cost| | 301.7 |
 
 <!--|Ultrasonic| 1| 1.37| [link](http://www.aliexpress.com/item/Free-shipping-HC-SR04-Ultrasonic-module-ultrasonic-ranging-modules-ranging-module-Ultrasonic-Sensors-FOR-arduino-Hot/610440655.html)|-->
 
